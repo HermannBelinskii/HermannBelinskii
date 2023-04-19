@@ -1,4 +1,6 @@
-<h1 align="center"">Hi there 👋 My name is Hermann Belinskyi.</h1>
+<h3 align="center""><i>Konnichiwa!</i></h1>
+
+<h1 align="center"">My name is Hermann Belinskyi.</h1>
 
 <h2 align="center"">I'm a young front-end developer with a passion for creating beautiful and functional websites. </h2>
 
