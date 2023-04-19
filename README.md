@@ -2,9 +2,9 @@
 # 
 # 
 
-<h1 style="text-align: center;">Hi there 👋 My name is Hermann Belinskyi.</h1>
+<h1 align="center"">Hi there 👋 My name is Hermann Belinskyi.</h1>
 
-<h2 style="text-align: center;">I'm a young front-end developer with a passion for creating beautiful and functional websites. </h2>
+<h2 align="center"">I'm a young front-end developer with a passion for creating beautiful and functional websites. </h2>
 
 
 
