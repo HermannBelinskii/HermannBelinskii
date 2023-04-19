@@ -16,6 +16,7 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F05032)
 
+### My LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your LinkedIn profile URL](https://www.linkedin.com/in/herman-belinskyi/))
 
 <!--
 **HermannBelinskii/HermannBelinskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
